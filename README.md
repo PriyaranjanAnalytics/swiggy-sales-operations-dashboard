@@ -4,6 +4,8 @@
 
 This project is an interactive Excel dashboard built to analyze Swiggy sales and operational performance across different cities, states, food categories and time periods.
 
+## Dashboard
+<img width="100%" alt="Dashboard" src="https://github.com/PriyaranjanAnalytics/swiggy-sales-operations-dashboard/blob/main/Screenshot%202026-06-08%20024402.png">
 ## Tools Used
 
 * Microsoft Excel
